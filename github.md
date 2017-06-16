@@ -13,3 +13,6 @@
 #### 查看当前状态：git status
 #### 文件加到仓库:git add README
 #### 提交:git commit
+### github的远程连接
+连接到网络github服务器 git remote add origin https://github.com/
+将远程的仓库的信息更步到本地：git fetch origin
