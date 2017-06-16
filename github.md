@@ -16,3 +16,7 @@
 ### github的远程连接
 连接到网络github服务器 git remote add origin https://github.com/
 将远程的仓库的信息更步到本地：git fetch origin
+同步master分支：git push origin master
+同步其它分支：git push origin branch-name
+从远程仓库同步：git clone 
+git pull
