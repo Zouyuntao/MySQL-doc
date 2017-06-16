@@ -9,7 +9,7 @@
 ##### h: 向前移动一个字符，j: 向上移动一行，k: 向下移动一行，l: 向后移动一个字符
 ##### yy: 复制当前一行，dd:剪切当前一行
 ##### p: 粘贴内容到游标之后，P: 粘贴内容到游标之前
-
+#
 ### Linux文件操作命令
 ##### touch  file 创建一个新的文件 
 ##### cp file file1 复制文件
@@ -17,6 +17,20 @@
 ##### ls -al 显示该目录下文件，包括隐藏文件
 ##### cat  file 以源码形式打开文件
 ##### tar xvf  file.tar.gz 打开压缩文件
-###### 以上大致为第一天学习的内容
-
+#
+### 虚拟机操作
+#### 安装git,vim,更新源
+#### 语句：sudo apt-get install git
+####       sudo apt-get install vim
+####       sudo arp-get install
+#
+### 练习vim打出下面程序
+```c
+#include <stdio.h>
+int main(void){
+printf(“hello world!”);
+return 0;
+}
+```
+#### gcc编译该程序，输出a.out文件
 ## 相关图片
