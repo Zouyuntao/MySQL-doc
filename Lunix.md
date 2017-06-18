@@ -1,5 +1,5 @@
-# MySQL-doc
-## Day1 
+
+# Day1 
 ### Linux虚拟机的创建
 ##### 使用软件：VMwareWorkstation 以及 Linux镜像文件
 ### vim基本命令
