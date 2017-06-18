@@ -5,7 +5,7 @@
 #
 ### github的简介
 #### GIT 是一个分布式版本控制软件，最初由林纳斯·托瓦兹（Linus Torvalds）创作，于2005年以GPL发布。最初目的是为更好地管理Linux内核开发而设计。是目前世界上最先进的分布式版本控制系统.
-###### 相关链接 [github](http://github.com)
+###### 相关链接 [github](http://baike.baidu.com/link?url=Mv1FTvCTYN2gqCX3MEHcrYnPWmqB3szTAn-S0sYK94Xp_nlHEqdJFaY4y_3s2wtZb8wLYsB4OW8XPBiIlw_x1q)
 #
 ### github基本命令
 #### 安装：sudo apt-get install git
