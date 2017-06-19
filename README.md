@@ -2,6 +2,7 @@
 * [Linux & Vim](Lunix.md)
 * [github](github.md)
 * [MySQL](MySQL.md)
+* [CGI](CGI.md)
 
 #
 # 课程设计
