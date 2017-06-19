@@ -23,3 +23,8 @@ int fprintf(FILE *stream, const char *format, ...);
 功能： 将格式化的语句输出到指定的流
 fprintf(stdin, "helloworld\n")  等价于 printf("helloworld\n);
 ```
+## 补充函数atoi
+```C
+int atoi(const char *nptr);
+功能：将一个字符串转换成对应的数字，比如：“1234” ==》 1234
+```
