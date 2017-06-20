@@ -28,3 +28,9 @@ fprintf(stdin, "helloworld\n")  等价于 printf("helloworld\n);
 int atoi(const char *nptr);
 功能：将一个字符串转换成对应的数字，比如：“1234” ==》 1234
 ```
+#
+## Atom安装
+#### [下载链接](https://atom.io/)
+#### 命令
+* wget -c https://github.com/atom/atom/releases/download/v1.18.0/atom-amd64.deb
+* sduo dpkg -i atom-amd64.deb
